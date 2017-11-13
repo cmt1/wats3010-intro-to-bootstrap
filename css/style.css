@@ -1,1 +1,18 @@
-/* Custom styles go here. */
+.carousel-caption h2 {
+	width: 150px;
+	background: teal;
+	color: orange;
+} .navbar   {
+	 background: teal;
+	 color: orange;
+}
+footer {
+	background: teal;
+	color: orange;
+	width: 1500px;
+	height: 25px
+}
+.social-media {
+	color: orange;
+	position: right;
+}
